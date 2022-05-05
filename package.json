@@ -1,0 +1,29 @@
+{
+  "name": "blockchain-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "crypto-js": "^4.1.1",
+    "ethers": "^5.6.5",
+    "express": "^4.18.1",
+    "express-promise-router": "^3.0.3",
+    "fs-extra": "^10.1.0",
+    "joi": "^17.6.0",
+    "locreq": "^1.1.0",
+    "lodash": "^4.17.21",
+    "pg": "^8.7.3",
+    "ramda": "^0.28.0",
+    "sequelize": "^6.19.0",
+    "sequelize-fixtures": "^1.2.0",
+    "stoppable": "^1.1.0",
+    "web3": "^1.7.3"
+  }
+}
