@@ -8,7 +8,7 @@ Install the dependencies and devDependencies and start the server.
 npm i
 npm start
 ```
-
+After that you need to fill the config.js with database settings and INFURA credentials
 
 ## License
 
